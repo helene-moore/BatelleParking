@@ -1,18 +1,18 @@
-# 🚗 Batelle Parking — Prototype interactif Twine
+# 🚗 Battelle Parking — Prototype interactif Twine
 
-Un prototype narratif et interactif conçu avec **Twine (SugarCube)**, permettant d’explorer les frustrations quotidiennes d’un·e étudiant·e qui doit se garer sur le campus... et de découvrir en quoi **Batelle Parking** peut faire toute la différence.
+Un prototype narratif et interactif conçu avec **Twine (SugarCube)**, permettant d’explorer les frustrations quotidiennes d’un·e étudiant·e qui doit se garer sur le campus... et de découvrir en quoi **Battelle Parking** peut faire toute la différence.
 
 ---
 
 ## 🎯 Objectif
 
 Ce projet illustre, sous forme de scénario immersif, les situations typiques rencontrées par les étudiant·e·s en voiture : pluie, bouchons, parkings saturés.  
-Grâce à l’application **Batelle Parking**, l’utilisateur peut simuler différents choix de trajet et constater l’impact d’une bonne anticipation.
+Grâce à l’application **Battelle Parking**, l’utilisateur peut simuler différents choix de trajet et constater l’impact d’une bonne anticipation.
 
 ---
-## 🧠 En quoi Batelle Parking est un *Digital Twin* ?
+## 🧠 En quoi Battelle Parking est un *Digital Twin* ?
 
-**Batelle Parking** s'inscrit dans la logique d’un **digital twin (jumeau numérique)** du système de stationnement universitaire.
+**Battelle Parking** s'inscrit dans la logique d’un **digital twin (jumeau numérique)** du système de stationnement universitaire.
 
 > Un *digital twin* est une **réplique numérique en temps réel** d’un système physique, utilisée pour surveiller, simuler et optimiser son fonctionnement.
 
@@ -36,7 +36,7 @@ Grâce à l’application **Batelle Parking**, l’utilisateur peut simuler diff
 |-------------------------------------|-------------|
 | `/images/`                          | Gifs et illustrations utilisés dans les passages (pluie, bouchons, horloge, etc.) |
 | `/audio/`                           | Effets sonores et ambiances intégrés au prototype (pluie, bus, guidage, notification, etc.) |
-| `BatelleParking_final.twee`         | Fichier Twine complet avec narration enrichie, gestion de fond, audio et choix dynamiques |
+| `BattelleParking_final.twee`         | Fichier Twine complet avec narration enrichie, gestion de fond, audio et choix dynamiques |
 | `README.md`                         | Ce fichier de documentation 📘 |
 
 ---
@@ -73,7 +73,7 @@ Les gifs d’ambiance (pluie, bouchons, horloge, voiture…) sont placés en fon
 ## 🗺️ Structure du scénario
 
 L’utilisateur commence par un **choix narratif** (bus / vélo / voiture) et vit une expérience **conditionnelle** :
-- Anticiper (consulter Batelle Parking)
+- Anticiper (consulter Battelle Parking)
 - Ignorer (et risquer l’échec…)
 
 💡 Plusieurs fins possibles, humoristiques ou réussies, selon les décisions prises.
@@ -82,7 +82,7 @@ L’utilisateur commence par un **choix narratif** (bus / vélo / voiture) et vi
 
 ## ✨ Slogan final
 
-> **Batelle Parking — Moins de stress pour se garer, plus d’énergie pour étudier.**
+> **Battelle Parking — Moins de stress pour se garer, plus d’énergie pour étudier.**
 
 ---
 
